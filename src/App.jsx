@@ -9,7 +9,7 @@ class App extends React.Component {
     this.state = {
       buttonClicked: "",
       assignments: [],
-      student: [] /*Below this line, add the students state variable*/,
+      students: [] /*Below this line, add the students state variable*/,
       grades: {}
     };
 
